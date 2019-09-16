@@ -1,1 +1,1 @@
-Copyright (c) AFKA INFORMATICS Inc.
+Copyright (c) AFKA INFORMATICS 
